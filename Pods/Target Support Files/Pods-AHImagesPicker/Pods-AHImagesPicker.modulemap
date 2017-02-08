@@ -1,0 +1,6 @@
+framework module Pods_AHImagesPicker {
+  umbrella header "Pods-AHImagesPicker-umbrella.h"
+
+  export *
+  module * { export * }
+}

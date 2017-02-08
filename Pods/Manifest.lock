@@ -1,0 +1,17 @@
+PODS:
+  - AHCategories (1.0.1)
+  - YYImage (1.0.3):
+    - YYImage/Core (= 1.0.3)
+  - YYImage/Core (1.0.3)
+
+DEPENDENCIES:
+  - AHCategories
+  - YYImage
+
+SPEC CHECKSUMS:
+  AHCategories: 1f3e1c580854441eaba45819927932735888ca19
+  YYImage: 362f44ffba1fc498f2152060f3bb54ed84600981
+
+PODFILE CHECKSUM: b3366579630318da53e06ceb8888fc27af016b92
+
+COCOAPODS: 1.1.1
